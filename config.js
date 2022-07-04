@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6285822347348'] //ur owner number
-global.ownername = "ArullOfc"
-global.ytname = "YT:ARULL OFC " //ur yt chanel name
-global.socialm = "GitHub: Warikrr" //ur github or insta name
-global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
+global.owner = ['62859194145686'] //ur owner number
+global.ownername = "᭄ AZZ ×፝֟͜×"
+global.ytname = "https://youtube.com" //ur yt chanel name
+global.socialm = "https://github.com" //ur github or insta name
+global.location = "Indonesia, Rusia" //ur location
 
 //bot bombdy
-global.botname = "ArullBotz" //ur bot name
-global.websitex = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg" //ur website
-global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
-global.packname = "Sticker By"
-global.author = "ArullBotz"
+global.botname = "©AzzBotz" //ur bot name
+global.websitex = "http://Wa.me/62859194145686" //ur website
+global.vidmenu = { url: 'https://youtube.com/watch?v=SOksFt_inU8' } //gif and video menu
+global.packname = "©AzzBotz\n\n\n🔥🔥"
+global.author = "᭄ AZZ ×፝֟͜×\n\n\n\n\n🔥"
 global.themeemoji = "🐶"
 global.reactmoji = "🗿"
-global.ownertag = ['ArullOfc'] //ur owner tag
-global.ownernummenu = ['6285822347348'] //ur owner number in menu and all
-global.watermark = "ArullBotz" //ur watermark
-global.botscript = "https://youtu.be/Gr6yuCbSGTI"
-global.linkz1 = "https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS"
-global.linkz2 = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg"
+global.ownertag = ['᭄ AZZ ×፝֟͜×'] //ur owner tag
+global.ownernummenu = ['62859194145686'] //ur owner number in menu and all
+global.watermark = "©AzzBotz || ᭄ AZZ ×፝֟͜×" //ur watermark
+global.botscript = "https://github.com"
+global.linkz1 = "https://chat.whatsapp.com/G3ydGzHeZ825IU4RjLuToY"
+global.linkz2 = "https://youtube.com"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -128,11 +128,44 @@ global.limitawal = {
 // api website by xenz
 global.APIs = {
 	zenz: 'https://zenzapis.xyz',
+	amel: 'https://melcanz.com',
+    bx: 'https://bx-hunter.herokuapp.com',
+  dhnjing: 'https://dhnjing.xyz',
+  hardianto: 'https://hardianto-chan.herokuapp.com',
+  jonaz: 'https://jonaz-api-v2.herokuapp.com',
+  neoxr: 'https://neoxr-api.herokuapp.com',
+  nrtm: 'https://nurutomo.herokuapp.com',
+  xteam: 'https://api.xteam.xyz',
+  nzcha: 'http://nzcha-apii.herokuapp.com',
+  bg: 'http://bochil.ddns.net',
+  fdci: 'https://api.fdci.se',
+  dzx: 'https://api.dhamzxploit.my.id',
+  bsbt: 'https://bsbt-api-rest.herokuapp.com',
+  zahir: 'https://zahirr-web.herokuapp.com',
+  zeks: 'https://api.zeks.xyz',
+  zekais: 'http://zekais-api.herokuapp.com',
+  hardianto: 'https://hardianto-chan.herokuapp.com',
+  pencarikode: 'https://pencarikode.xyz', 
+  erdwepe: 'https://erdwpe-api.herokuapp.com',
+  lolhuman: 'https://api.lolhuman.xyz',
+  LeysCoder: 'https://leyscoders-api.herokuapp.com',
+  rey: 'https://server-api-rey.herokuapp.com'
 }
 
 // key
 global.APIKeys = {
-	'https://zenzapis.xyz': 'Your Key',
+	'https://zenzapis.xyz': 'BagasPrdn',
+	  'https://melcanz.com': 'elaina',
+  'https://server-api-rey.herokuapp.com': 'apirey',
+  'https://api.xteam.xyz': 'd37372311698ed1d',
+  'https://zahirr-web.herokuapp.com': 'zahirgans',
+  'https://bsbt-api-rest.herokuapp.com': 'benniismael',
+  'https://api.zeks.xyz': 'apivinz',
+  'https://hardianto-chan.herokuapp.com': 'hardianto',
+  'https://pencarikode.xyz': 'pais', 
+  'https://leyscoders-api.herokuapp.com': 'dappakntlll',
+  'https://zekais-api.herokuapp.com': 'apikeymu',
+  'https://api.lolhuman.xyz': 'Deffbotz',
 }
 //menu logo maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
