@@ -166,7 +166,20 @@ XeonBotInc.ev.on('group-participants.update', async (anu) => {
    │✑ ${xmembers}th
    │✑  𝗝𝗼𝗶𝗻𝗲𝗱 : 
    │✑ ${xtime} ${xdate}
-   └───────────────┈ ⳹`
+   └───────────────┈ ⳹
+0ཻུ۪۪ꦽꦼ̷⸙‹•══════════════♡᭄
+│       *「 Intro 」*
+│ *Nama     :* 
+│ *Gender   :* 
+│ *Umur      :* 
+│ *Hobby    :* 
+│ *Kelas      :* 
+│ *Asal         :* 
+│ *Agama    :* 
+ |  *Status     :* 
+╰═════ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙
+Patuhi rules grup mank><
+`
    //if you copy the code value,
    //dont forget to put my name(Xeon) as credit
    //you fail to put, i sue you for sure!
