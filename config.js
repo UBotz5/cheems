@@ -44,15 +44,15 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.owner = ['62859194145686'] //ur owner number
 global.ownername = "᭄ AZZ ×፝֟͜×"
 global.ytname = "https://youtube.com" //ur yt chanel name
-global.socialm = "https://github.com" //ur github or insta name
+global.socialm = "https://instagram.com" //ur github or insta name
 global.location = "Indonesia, Rusia" //ur location
 
 //bot bombdy
 global.botname = "©AzzBotz" //ur bot name
-global.websitex = "http://Wa.me/62859194145686" //ur website
+global.websitex = "https://youtube.com" //ur website
 global.vidmenu = { url: 'https://youtube.com/watch?v=SOksFt_inU8' } //gif and video menu
-global.packname = "©AzzBotz\n\n\n🔥🔥"
-global.author = "᭄ AZZ ×፝֟͜×\n\n\n\n\n🔥"
+global.packname = "©AzzBotz\n\n\n\n\n🔥🔥"
+global.author = "᭄ AZZ ×፝֟͜×\n\n\n\n\n🔥🔥"
 global.themeemoji = "🐶"
 global.reactmoji = "🗿"
 global.ownertag = ['᭄ AZZ ×፝֟͜×'] //ur owner tag
